@@ -14,7 +14,7 @@ I'm a Food Engineering that recently discovered a new passion in programming! :h
 
 ## ⚡ Fun fact
 - I love cats, playing video games, and listening to music! :cat::video_game::musical_score:
-## :computer: Contact me 
+______________________________
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-guida/) [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white")](spotify:playlist:36XIFxUYGQ8R6lIRzsOXOa)
 </div>
 
