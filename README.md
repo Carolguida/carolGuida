@@ -2,8 +2,8 @@
 <img src="https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif">
 
 ## :stuck_out_tongue_winking_eye: About me
-I'm a Food Engineering that recently discovered a new passion in programming! :heart: :sparkles:
-## :raised_hands: I’m currently learning :arrow_down:
+I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
+## :raised_hands: What I'm learning.. :arrow_down:
 1) :arrow_right: Java - OOP, Collections
 2) :arrow_right: SQL - SpringBoot
 3) :arrow_right: Docker
