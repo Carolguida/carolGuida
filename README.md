@@ -4,13 +4,13 @@
 ## :stuck_out_tongue_winking_eye: About me
 I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
 ## :raised_hands: What I'm learning.. :arrow_down:
-1) :arrow_right: Java - OOP, Collections
-2) :arrow_right: SQL - SpringBoot
-3) :arrow_right: Docker
-4) :arrow_right: HTML , CSS, JavaScript e Bootstrap;
-5) :arrow_right:Angular;
-6) :arrow_right:GitHub;
-7) :arrow_right:SCRUM
+1)  Java - OOP, Collections
+2)  SQL - SpringBoot
+3)  Docker
+4)  HTML , CSS, JavaScript e Bootstrap;
+5) Angular;
+6) GitHub;
+7) SCRUM
 
 ## ⚡ Fun fact
 - I love cats, playing video games, and listening to music! :cat::video_game::musical_score:
