@@ -3,7 +3,7 @@
 
 ## :stuck_out_tongue_winking_eye: About me
 I'm a Food Engineering that recently discovered a new passion in programming! :heart: :sparkles:
-## :raised_hands: I’m currently learning:
+## :raised_hands: I’m currently learning :arrow_down:
 1) :arrow_right: Java - OOP, Collections
 2) :arrow_right: SQL - SpringBoot
 3) :arrow_right: Docker
