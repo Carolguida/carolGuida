@@ -4,7 +4,7 @@
 ## :stuck_out_tongue_winking_eye: About me
 I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
 ## :raised_hands: What I'm learning.. :arrow_down:
-1)  Java - OOP, Collections
+1)  Java 
 2)  SQL - SpringBoot
 3)  Docker
 4)  HTML , CSS, JavaScript e Bootstrap;
