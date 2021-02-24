@@ -7,7 +7,7 @@ I am a Food Engineer who recently discovered a new passion for programming, and 
 1)  Java 
 2)  SQL - SpringBoot
 3)  Docker
-4)  HTML , CSS, JavaScript e Bootstrap;
+4)  HTML , CSS, JavaScript and Bootstrap;
 5) Angular;
 6) GitHub;
 7) SCRUM
