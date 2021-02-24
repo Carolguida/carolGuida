@@ -1,5 +1,5 @@
-<div align=”center”> 
-<img src="https://media2.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif?cid=ecf05e4754aoafg5jy5x3gwzpxqwzjmemrj8mhftnlrd5yp5&rid=giphy.gif">
+<p align="center">
+<img src="https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif">
 
 ## :stuck_out_tongue_winking_eye: About me
 I'm a Food Engineering that recently discovered a new passion in programming! :heart: :sparkles:
@@ -17,4 +17,4 @@ I'm a Food Engineering that recently discovered a new passion in programming! :h
 ______________________________
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-guida/) [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white")](spotify:playlist:36XIFxUYGQ8R6lIRzsOXOa)
 </div>
-
+</p>
