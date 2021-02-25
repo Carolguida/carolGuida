@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif">
 
 ## :stuck_out_tongue_winking_eye: About me
-I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
+I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
 ## :raised_hands: What I'm learning.. :arrow_down:
 1)  Java 
 2)  SQL - SpringBoot
