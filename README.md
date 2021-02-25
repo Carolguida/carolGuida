@@ -1,4 +1,4 @@
-<p align="center">
+'''<p align="center">
 <img src="https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif">
 
 ## :stuck_out_tongue_winking_eye: About me
@@ -54,7 +54,7 @@ ______________________________
         </td>
           <td>
             <div>
-              <a href = "spotify:playlist:36XIFxUYGQ8R6lIRzsOXOa">
+              <a href = "https://open.spotify.com/playlist/36XIFxUYGQ8R6lIRzsOXOa?si=Wk48L0oLSoWxrRZIFffeHg">
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
             </div>
         </td>        
