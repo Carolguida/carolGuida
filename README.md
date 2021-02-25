@@ -1,4 +1,4 @@
-'''<p align="center">
+<p align="center">
 <img src="https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif">
 
 ## :stuck_out_tongue_winking_eye: About me
