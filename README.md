@@ -1,4 +1,4 @@
-<img align="right" width="300px" src="https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif">
+<img align = "center" width="400px" src="https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif">
 
 ## :stuck_out_tongue_winking_eye: About me
 I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
