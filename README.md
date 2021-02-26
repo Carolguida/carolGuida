@@ -1,4 +1,6 @@
-## :stuck_out_tongue_winking_eye: About me <img align="right" width="300px" src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" />
+<h1 align="center"> Hello, this is Carol <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+## :stuck_out_tongue_winking_eye: About me <img align="right" width="350px" src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" />
 
 I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
 
@@ -11,6 +13,7 @@ I am a Food Engineer who recently discovered a new passion for programming, and 
 ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 ![Eclipse](https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
 ![HTML5](https://camo.githubusercontent.com/973ef79f4480abda619de36ae96f335e9f4167d330d827b14a86b31587762deb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![CSS3](https://camo.githubusercontent.com/982803cf428cb92cba498357d31f402ea379bc550f2293db476ff4d022673232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d706c6173746963266c6f676f3d63737333)
    
 ## ⚡ Fun fact
 - I love cats, playing video games, and listening to music! :cat::video_game::musical_score:
