@@ -28,7 +28,7 @@ I love cats, playing video games, and listening to music! :cat::video_game::musi
 </a>
 </p>
 
-## :speech_balloon: Contact me
+### :speech_balloon: Contact me
 <p align="left">
 <a href ="https://www.linkedin.com/in/carolina-guida/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href ="mailto:carolinaguidaa@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
