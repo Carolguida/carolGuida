@@ -23,8 +23,8 @@ I love cats, playing video games, and listening to music! :cat::video_game::musi
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Carolguida">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carolguida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carolguida&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carolguida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carolguida&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
