@@ -1,10 +1,10 @@
 <h1 align="center"> Hello, this is Carol <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-## :stuck_out_tongue_winking_eye: About me <img align="right" width="350px" src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" />
+###:stuck_out_tongue_winking_eye: About me <img align="right" width="350px" src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" />
 
 I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
 
-## :raised_hands: Skills
+### :raised_hands: Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,7 +17,7 @@ I am a Food Engineer who recently discovered a new passion for programming, and 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
    
-## ⚡ Fun fact
+### ⚡ Fun fact
 I love cats, playing video games, and listening to music! :cat::video_game::musical_score:
 
 ### ⚙️ &nbsp;GitHub Analytics
