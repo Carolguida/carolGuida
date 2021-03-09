@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, this is Carol </h1>
+<h1 align="center"> Hello, this is Carol 👋</h1>
    
 ### :stuck_out_tongue_winking_eye: About me <img align="right" width="350px" src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" />
 
