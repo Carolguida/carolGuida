@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, this is Carol <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-###:stuck_out_tongue_winking_eye: About me <img align="right" width="350px" src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" />
+### :stuck_out_tongue_winking_eye: About me <img align="right" width="350px" src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" />
 
 I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
 
