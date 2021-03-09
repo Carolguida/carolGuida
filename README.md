@@ -20,11 +20,19 @@ I am a Food Engineer who recently discovered a new passion for programming, and 
 ## ⚡ Fun fact
 I love cats, playing video games, and listening to music! :cat::video_game::musical_score:
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/Carolguida">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carolguida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carolguida&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## :speech_balloon: Contact me
-<div align ="left">
+<p align="center">
 <a href ="https://www.linkedin.com/in/carolina-guida/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href ="mailto:carolinaguidaa@gmail.com"><img align="left" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+</p>
  
            
 
