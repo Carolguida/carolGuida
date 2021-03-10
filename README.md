@@ -2,8 +2,13 @@
    
 ### :stuck_out_tongue_winking_eye: About me 
 
-I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! 
-
+   - ✌️ I'm a Food Engineer who recently discovered a new passion for programming!
+   - ✏️ I'm improving my technical and soft skills
+   - ✍️ I'm taking a course at Generation Brasil
+   - 🔆 Future Java Full Stack Developer
+   - ⚡ I love cats, playing video games, and listening to music!
+   
+ 
 ### ✍️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
@@ -16,9 +21,7 @@ I am a Food Engineer who recently discovered a new passion for programming, and 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-   
-### ⚡ Fun fact
-I love cats, playing video games, and listening to music! :cat::video_game::musical_score:
+ 
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
