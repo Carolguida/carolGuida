@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, this is Carol 👋</h1>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="260"/>
    
 ### :stuck_out_tongue_winking_eye: About me 
 
@@ -9,7 +9,7 @@
    - 🔆 Future Java Full Stack Developer
    - ⚡ I love cats, playing video games, and listening to music!
    
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="260"/>
+
 
 ### ✍️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
