@@ -1,4 +1,4 @@
-WWW<h1 align="center"> Hello, this is Carol 👋</h1>
+<h1 align="center"> Hello, this is Carol 👋</h1>
    
 ### :stuck_out_tongue_winking_eye: About me 
 
