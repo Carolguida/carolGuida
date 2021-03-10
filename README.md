@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, this is Carol 👋</h1>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="260"/>
    
 ### :stuck_out_tongue_winking_eye: About me 
 
