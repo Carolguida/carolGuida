@@ -1,8 +1,8 @@
-<h1 align="center"> Hello, this is Carol 👋</h1>
+WWW<h1 align="center"> Hello, this is Carol 👋</h1>
    
 ### :stuck_out_tongue_winking_eye: About me 
 
-I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! :heart: :sparkles: 
+I am a Food Engineer who recently discovered a new passion for programming, and to improve my technical and soft skills, I'm taking a course at Generation Brasil! 
 
 ### ✍️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
