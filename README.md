@@ -1,6 +1,7 @@
 <h1 align="center"> Hello, this is Carol 👋</h1>
 <img align="right" alt="GIF minion estudando" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="260"/>
    
+   ### :raising_hand: &nbsp; About me
    - ✌️ I'm a Food Engineer who recently discovered a new passion for programming!
    - ✍️ I'm taking a course at Generation Brasil
    - 🔆 Future Java Full Stack Developer
