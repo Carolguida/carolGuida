@@ -3,7 +3,7 @@
    
    ### :raising_hand: &nbsp; About me
    - ✌️ I'm a Food Engineer who recently discovered a new passion for programming!
-   - ✍️ I'm taking a course at Generation Brasil
+   - ✍️ I'm currently learning Full Stack Development at Generation Brasil's bootcamp.
    - 🔆 Future Java Full Stack Developer
    - ⚡ I love cats, playing video games, and listening to music!
   
