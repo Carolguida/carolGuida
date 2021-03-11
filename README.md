@@ -5,7 +5,7 @@
    - ✌️ I'm a Food Engineer who recently discovered a new passion for programming!
    - ✍️ I'm currently learning Full Stack Development at Generation Brasil's bootcamp.
    - 🔆 Future Java Full Stack Developer
-   - Collaborating on Project <a href="https://github.com/athosgpm/ProjetoIntegrador_findYourHelp">FindYourHelp</a>
+   - :open_file_folder: Collaborating on Project <a href="https://github.com/athosgpm/ProjetoIntegrador_findYourHelp">FindYourHelp</a>
    - ⚡ I love cats, playing video games, and listening to music!
   
  ### 💻 &nbsp; Tech Stack
