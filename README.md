@@ -7,6 +7,7 @@
    - 🔆 Future Java Full Stack Developer
    - :open_file_folder: Collaborating on Project <a href="https://github.com/athosgpm/ProjetoIntegrador_findYourHelp">FindYourHelp</a>
    - ⚡ I love cats, playing video games, and listening to music!
+   - 🔆 You can see more about my portfolio <a href="https://github.com/Carolguida/portifolio/blob/main/README.md"> here! </a>
   
  ### 💻 &nbsp; Tech Stack
 <p align="left">
