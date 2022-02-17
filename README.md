@@ -3,8 +3,7 @@
    
    ### :raising_hand: &nbsp; About me
    - ✌️ I'm a Food Engineer who recently discovered a new passion for programming!
-   - ✍️ I'm Front-end Developer.  
-   - :open_file_folder: Collaborate on Project <a href="https://github.com/athosgpm/ProjetoIntegrador_findYourHelp">FindYourHelp</a>
+   - ✍️ I'm Front-end Developer.
    - ⚡ I love cats, playing video games, and listening to music!
    - 🔆 You can see more about my portfolio <a href="https://github.com/Carolguida/portifolio/blob/main/README.md"> here! </a>
   
