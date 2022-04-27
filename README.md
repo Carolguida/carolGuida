@@ -1,10 +1,10 @@
 <h1 align="center"> Hello, this is Carol 👋</h1>
    
    ### About me
-   - ✌️ I'm a Food Engineer who recently discovered a new passion for programming!
-   - ✍️ I'm Front-end Developer.
-   - ⚡ I love cats, playing video games, and listening to music!
-   - 🔆 You can see more about my portfolio <a href="https://github.com/Carolguida/portifolio/blob/main/README.md"> here! </a>
+   -  I'm a Food Engineer who recently discovered a new passion for programming!
+   -  I'm Front-end Developer.
+   -  I love cats, playing video games, and listening to music!
+   -  You can see more about my portfolio <a href="https://github.com/Carolguida/portifolio/blob/main/README.md"> here! </a>
   
  ### Tech Stack
  
